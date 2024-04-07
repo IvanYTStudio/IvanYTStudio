@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ivanytstudio" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="ivanytstudio" height="35" width="40" /></a>
-&nbsp&nbsp&nbsp<a href="https://www.youtube.com/c/@ivan-youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ivan-youtube" height="40" width="40" /></a>
-&nbsp&nbsp&nbsp<a href="https://linkedin.com/in/miletic-ivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miletic-ivan" height="40" width="40" /></a>
+<a href="https://twitter.com/ivanytstudio" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="ivanytstudio" height="35" width="40" /></a>
+&nbsp&nbsp&nbsp<a href="https://www.youtube.com/c/@ivan-youtube" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ivan-youtube" height="40" width="40" /></a>
+&nbsp&nbsp&nbsp<a href="https://linkedin.com/in/miletic-ivan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miletic-ivan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
