@@ -5,11 +5,9 @@
 
 - 🎥 I'm also making videos on [YouTube](https://www.youtube.com/@ivan-youtube)
 
-- 👨‍💻 All of my projects are available at [ivanmiletic.com](ivanmiletic.com)
+- 👨‍💻 All of my projects are available at [My Website](ivanmiletic.com)
 
 - 💬 Ask me about **Excel, VBA and Python**
-
-- 📫 How to reach me **ivanytstudio@gmail.com**
 
 - ⚡ Fun fact **I hold several National Records for solving Rubik's Cubes blindfolded**
 
