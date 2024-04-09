@@ -5,7 +5,7 @@
 
 - 🎥 I'm also making videos on [YouTube](https://www.youtube.com/@ivan-youtube)
 
-- 👨‍💻 All of my projects are available at [My Website](ivanmiletic.com)
+- 👨‍💻 All of my projects are available on [My Website](ivanmiletic.com)
 
 - 💬 Ask me about **Excel, VBA and Python**
 
