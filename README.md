@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">An accountat, content creator and software developer from Serbia</h3>
 
-- 🔭 I’m currently working on [Swift XL](swiftxl.com)
+- 🔭 I’m currently working on [Swift XL](https://www.swiftxl.com)
 
 - 🎥 I'm also making videos on [YouTube](https://www.youtube.com/@ivan-youtube)
 
-- 👨‍💻 All of my projects are available on [My Website](ivanmiletic.com)
+- 👨‍💻 All of my projects are available on [My Website](https://www.ivanmiletic.com)
 
 - 💬 Ask me about **Excel, VBA and Python**
 
