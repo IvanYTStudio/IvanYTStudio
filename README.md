@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PAZITE kad poravnavate u Excel-u](https://ytcards.demolab.com/?id=sj5x-FusYWk&title=PAZITE+kad+poravnavate+u+Excel-u&lang=en&timestamp=1714068031&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=275&border_radius=0 "PAZITE kad poravnavate u Excel-u")](https://www.youtube.com/watch?v=sj5x-FusYWk)
-[![Greške u Excel-u](https://ytcards.demolab.com/?id=W6wScGwK4us&title=Gre%C5%A1ke+u+Excel-u&lang=en&timestamp=1713722414&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=275&border_radius=0 "Greške u Excel-u")](https://www.youtube.com/watch?v=W6wScGwK4us)
-[![Pristup sajtovima bez registrovanja](https://ytcards.demolab.com/?id=csc0L6G7gpU&title=Pristup+sajtovima+bez+registrovanja&lang=en&timestamp=1713120426&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=275&border_radius=0 "Pristup sajtovima bez registrovanja")](https://www.youtube.com/watch?v=csc0L6G7gpU)
+[![PAZITE kad poravnavate u Excel-u](https://ytcards.demolab.com/?id=sj5x-FusYWk&title=PAZITE+kad+poravnavate+u+Excel-u&lang=en&timestamp=1714068031&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "PAZITE kad poravnavate u Excel-u")](https://www.youtube.com/watch?v=sj5x-FusYWk)
+[![Greške u Excel-u](https://ytcards.demolab.com/?id=W6wScGwK4us&title=Gre%C5%A1ke+u+Excel-u&lang=en&timestamp=1713722414&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Greške u Excel-u")](https://www.youtube.com/watch?v=W6wScGwK4us)
+[![Pristup sajtovima bez registrovanja](https://ytcards.demolab.com/?id=csc0L6G7gpU&title=Pristup+sajtovima+bez+registrovanja&lang=en&timestamp=1713120426&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Pristup sajtovima bez registrovanja")](https://www.youtube.com/watch?v=csc0L6G7gpU)
 <!-- END YOUTUBE-CARDS -->
