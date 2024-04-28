@@ -21,4 +21,5 @@ jobs:
           title_color: "000000"
           stats_color: "4a4a4a"
           max_title_lines: 1
-          card_width: 250
+          border_radius: 0
+          card_width: 275
