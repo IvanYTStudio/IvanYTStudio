@@ -36,4 +36,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![PAZITE kad poravnavate u Excel-u](https://ytcards.demolab.com/?id=sj5x-FusYWk&title=PAZITE+kad+poravnavate+u+Excel-u&lang=en&timestamp=1714068031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PAZITE kad poravnavate u Excel-u")](https://www.youtube.com/watch?v=sj5x-FusYWk)
+[![Greške u Excel-u](https://ytcards.demolab.com/?id=W6wScGwK4us&title=Gre%C5%A1ke+u+Excel-u&lang=en&timestamp=1713722414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Greške u Excel-u")](https://www.youtube.com/watch?v=W6wScGwK4us)
+[![Pristup sajtovima bez registrovanja](https://ytcards.demolab.com/?id=csc0L6G7gpU&title=Pristup+sajtovima+bez+registrovanja&lang=en&timestamp=1713120426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pristup sajtovima bez registrovanja")](https://www.youtube.com/watch?v=csc0L6G7gpU)
+[![5 Excel Trikova #1](https://ytcards.demolab.com/?id=ZIljhzaKVhI&title=5+Excel+Trikova+%231&lang=en&timestamp=1712854816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Excel Trikova #1")](https://www.youtube.com/watch?v=ZIljhzaKVhI)
+[![Tetris u Excel-u](https://ytcards.demolab.com/?id=ObDHn0OhDYw&title=Tetris+u+Excel-u&lang=en&timestamp=1712512322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tetris u Excel-u")](https://www.youtube.com/watch?v=ObDHn0OhDYw)
+[![Prvoaprilska Šala u Excel-u (Excel Prank #1)](https://ytcards.demolab.com/?id=fX8J5nh7l9o&title=Prvoaprilska+%C5%A0ala+u+Excel-u+%28Excel+Prank+%231%29&lang=en&timestamp=1711951214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Prvoaprilska Šala u Excel-u (Excel Prank #1)")](https://www.youtube.com/watch?v=fX8J5nh7l9o)
 <!-- END YOUTUBE-CARDS -->
