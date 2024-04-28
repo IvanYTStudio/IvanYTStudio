@@ -16,6 +16,9 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCoCFqrpQWFqXX2Aw3uHNaPw
-          max_videos: 4
-          max_title_lines: 2
-          card_width: 200
+          max_videos: 3
+          background_color: "#ffffff"
+          title_color: "000000"
+          stats_color: "4a4a4a"
+          max_title_lines: 1
+          card_width: 250
