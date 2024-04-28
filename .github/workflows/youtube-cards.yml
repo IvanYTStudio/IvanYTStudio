@@ -17,4 +17,4 @@ jobs:
         with:
           channel_id: UCoCFqrpQWFqXX2Aw3uHNaPw
           max_videos: 3
-          card_width: 300
+          card_width: 270
