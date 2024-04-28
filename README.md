@@ -35,12 +35,12 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=sj5x-FusYWk"><img width="140px" src="http://img.youtube.com/vi/sj5x-FusYWk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sj5x-FusYWk">PAZITE kad poravnavate u Excel-u</a><br/>Apr 25, 2024</td></tr></table>
-<table><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=W6wScGwK4us"><img width="140px" src="http://img.youtube.com/vi/W6wScGwK4us/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W6wScGwK4us">Greške u Excel-u</a><br/>Apr 21, 2024</td></tr></table>
-<table><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=csc0L6G7gpU"><img width="140px" src="http://img.youtube.com/vi/csc0L6G7gpU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=csc0L6G7gpU">Pristup sajtovima bez registrovanja</a><br/>Apr 14, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table style="border: 0px !important"><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=sj5x-FusYWk"><img width="140px" src="http://img.youtube.com/vi/sj5x-FusYWk/maxresdefault.jpg"></a></td>
+<td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=sj5x-FusYWk">PAZITE kad poravnavate u Excel-u</a><br/>Apr 25, 2024</td></tr></table>
+<table style="border: 0px !important"><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=W6wScGwK4us"><img width="140px" src="http://img.youtube.com/vi/W6wScGwK4us/maxresdefault.jpg"></a></td>
+<td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=W6wScGwK4us">Greške u Excel-u</a><br/>Apr 21, 2024</td></tr></table>
+<table style="border: 0px !important"><tr style="border-top: 0px !important"><td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=csc0L6G7gpU"><img width="140px" src="http://img.youtube.com/vi/csc0L6G7gpU/maxresdefault.jpg"></a></td>
+<td style="border: 0px !important"><a href="https://www.youtube.com/watch?v=csc0L6G7gpU">Pristup sajtovima bez registrovanja</a><br/>Apr 14, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@ivan-youtube)
