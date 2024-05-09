@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Besplatno Editujte PDF Fajlove](https://ytcards.demolab.com/?id=m-fZ_dz7QFA&title=Besplatno+Editujte+PDF+Fajlove&lang=en&timestamp=1715274024&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Besplatno Editujte PDF Fajlove")](https://www.youtube.com/watch?v=m-fZ_dz7QFA)
 [![3D Reference](https://ytcards.demolab.com/?id=FgDywQ9mSCE&title=3D+Reference&lang=en&timestamp=1714928415&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "3D Reference")](https://www.youtube.com/watch?v=FgDywQ9mSCE)
 [![Excel fajlovi mogu biti opasni](https://ytcards.demolab.com/?id=tj5Xnz9bgpQ&title=Excel+fajlovi+mogu+biti+opasni&lang=en&timestamp=1714324127&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Excel fajlovi mogu biti opasni")](https://www.youtube.com/watch?v=tj5Xnz9bgpQ)
-[![PAZITE kad poravnavate u Excel-u](https://ytcards.demolab.com/?id=sj5x-FusYWk&title=PAZITE+kad+poravnavate+u+Excel-u&lang=en&timestamp=1714068031&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "PAZITE kad poravnavate u Excel-u")](https://www.youtube.com/watch?v=sj5x-FusYWk)
 <!-- END YOUTUBE-CARDS -->
