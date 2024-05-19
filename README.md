@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Copy-Paste u Excel-u](https://ytcards.demolab.com/?id=02da70rFOlA&title=Copy-Paste+u+Excel-u&lang=en&timestamp=1716136637&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Copy-Paste u Excel-u")](https://www.youtube.com/watch?v=02da70rFOlA)
 [![Sprečite Unos Duplikata](https://ytcards.demolab.com/?id=jAXF9MCU7Xk&title=Spre%C4%8Dite+Unos+Duplikata&lang=en&timestamp=1715533223&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Sprečite Unos Duplikata")](https://www.youtube.com/watch?v=jAXF9MCU7Xk)
 [![Besplatno Editujte PDF Fajlove](https://ytcards.demolab.com/?id=m-fZ_dz7QFA&title=Besplatno+Editujte+PDF+Fajlove&lang=en&timestamp=1715274024&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Besplatno Editujte PDF Fajlove")](https://www.youtube.com/watch?v=m-fZ_dz7QFA)
-[![3D Reference](https://ytcards.demolab.com/?id=FgDywQ9mSCE&title=3D+Reference&lang=en&timestamp=1714928415&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "3D Reference")](https://www.youtube.com/watch?v=FgDywQ9mSCE)
 <!-- END YOUTUBE-CARDS -->
