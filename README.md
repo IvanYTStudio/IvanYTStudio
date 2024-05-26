@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![VBA Radionica - SUMBYCOLOR - Epizoda 1](https://ytcards.demolab.com/?id=sO-OJ8wVceY&title=VBA+Radionica+-+SUMBYCOLOR+-+Epizoda+1&lang=en&timestamp=1716749567&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - SUMBYCOLOR - Epizoda 1")](https://www.youtube.com/watch?v=sO-OJ8wVceY)
+[![VBA Radionica - Uvod - Epizoda 0](https://ytcards.demolab.com/?id=UA4uJoJ0MYc&title=VBA+Radionica+-+Uvod+-+Epizoda+0&lang=en&timestamp=1716749506&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - Uvod - Epizoda 0")](https://www.youtube.com/watch?v=UA4uJoJ0MYc)
 [![Nevidljivi Razmak](https://ytcards.demolab.com/?id=Qj9POnxY4BQ&title=Nevidljivi+Razmak&lang=en&timestamp=1716483613&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Nevidljivi Razmak")](https://www.youtube.com/watch?v=Qj9POnxY4BQ)
-[![Copy-Paste u Excel-u](https://ytcards.demolab.com/?id=02da70rFOlA&title=Copy-Paste+u+Excel-u&lang=en&timestamp=1716136637&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Copy-Paste u Excel-u")](https://www.youtube.com/watch?v=02da70rFOlA)
-[![Sprečite Unos Duplikata](https://ytcards.demolab.com/?id=jAXF9MCU7Xk&title=Spre%C4%8Dite+Unos+Duplikata&lang=en&timestamp=1715533223&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Sprečite Unos Duplikata")](https://www.youtube.com/watch?v=jAXF9MCU7Xk)
 <!-- END YOUTUBE-CARDS -->
