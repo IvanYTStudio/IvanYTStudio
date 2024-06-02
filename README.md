@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Besplatno gledajte filmove na YouTube-u](https://ytcards.demolab.com/?id=trTQnDrubHI&title=Besplatno+gledajte+filmove+na+YouTube-u&lang=en&timestamp=1717348893&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Besplatno gledajte filmove na YouTube-u")](https://www.youtube.com/watch?v=trTQnDrubHI)
 [![VBA Radionica - SUMBYCOLOR - Epizoda 1](https://ytcards.demolab.com/?id=sO-OJ8wVceY&title=VBA+Radionica+-+SUMBYCOLOR+-+Epizoda+1&lang=en&timestamp=1716749567&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - SUMBYCOLOR - Epizoda 1")](https://www.youtube.com/watch?v=sO-OJ8wVceY)
 [![VBA Radionica - Uvod - Epizoda 0](https://ytcards.demolab.com/?id=UA4uJoJ0MYc&title=VBA+Radionica+-+Uvod+-+Epizoda+0&lang=en&timestamp=1716749506&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - Uvod - Epizoda 0")](https://www.youtube.com/watch?v=UA4uJoJ0MYc)
-[![Nevidljivi Razmak - Specijalni Karakter](https://ytcards.demolab.com/?id=Qj9POnxY4BQ&title=Nevidljivi+Razmak+-+Specijalni+Karakter&lang=en&timestamp=1716483613&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Nevidljivi Razmak - Specijalni Karakter")](https://www.youtube.com/watch?v=Qj9POnxY4BQ)
 <!-- END YOUTUBE-CARDS -->
