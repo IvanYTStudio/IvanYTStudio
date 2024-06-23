@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![5 Excel Trikova #2](https://ytcards.demolab.com/?id=2w9Beax6g1c&title=5+Excel+Trikova+%232&lang=en&timestamp=1719167669&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "5 Excel Trikova #2")](https://www.youtube.com/watch?v=2w9Beax6g1c)
 [![Besplatno gledajte filmove na YouTube-u](https://ytcards.demolab.com/?id=trTQnDrubHI&title=Besplatno+gledajte+filmove+na+YouTube-u&lang=en&timestamp=1717348893&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Besplatno gledajte filmove na YouTube-u")](https://www.youtube.com/watch?v=trTQnDrubHI)
 [![VBA Radionica - SUMBYCOLOR - Epizoda 1](https://ytcards.demolab.com/?id=sO-OJ8wVceY&title=VBA+Radionica+-+SUMBYCOLOR+-+Epizoda+1&lang=en&timestamp=1716749567&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - SUMBYCOLOR - Epizoda 1")](https://www.youtube.com/watch?v=sO-OJ8wVceY)
-[![VBA Radionica - Uvod - Epizoda 0](https://ytcards.demolab.com/?id=UA4uJoJ0MYc&title=VBA+Radionica+-+Uvod+-+Epizoda+0&lang=en&timestamp=1716749506&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "VBA Radionica - Uvod - Epizoda 0")](https://www.youtube.com/watch?v=UA4uJoJ0MYc)
 <!-- END YOUTUBE-CARDS -->
