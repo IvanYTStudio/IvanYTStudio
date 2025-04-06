@@ -22,7 +22,7 @@
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="80" height="42"/>
+  <img src="https://images.seeklogo.com/logo-png/44/1/streamlit-logo-png_seeklogo-441815.png" alt="streamlit" width="80" height="42"/>
  <img src="https://miro.medium.com/v2/resize:fit:1400/1*HGo7_F7RTHFF9bgVxamGqg.png" alt="selenium" width="50" height="50"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="50" height="50"/>
   <img src="https://media.licdn.com/dms/image/D4D12AQGTQ6a9BvvEAA/article-cover_image-shrink_720_1280/0/1675951891005?e=2147483647&v=beta&t=sVXZc-MdZl_g1IaSjJfTXNXJ9Ctjf_uLGZFVYyOX7g0" alt="VBA" width="50" height="50"/>
