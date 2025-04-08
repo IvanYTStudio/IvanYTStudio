@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![STOP Lažnim Vestima](https://ytcards.demolab.com/?id=m8QUceJaXns&title=STOP+La%C5%BEnim+Vestima&lang=en&timestamp=1744045261&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "STOP Lažnim Vestima")](https://www.youtube.com/watch?v=m8QUceJaXns)
 [![2 Prvoaprilske šale (Excel i Chrome)](https://ytcards.demolab.com/?id=keYz2AensaE&title=2+Prvoaprilske+%C5%A1ale+%28Excel+i+Chrome%29&lang=en&timestamp=1743494438&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "2 Prvoaprilske šale (Excel i Chrome)")](https://www.youtube.com/watch?v=keYz2AensaE)
 [![Kako učitati PDF fajl u Excel (4 načina)](https://ytcards.demolab.com/?id=bJwb6wxUPyY&title=Kako+u%C4%8Ditati+PDF+fajl+u+Excel+%284+na%C4%8Dina%29&lang=en&timestamp=1743353296&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "Kako učitati PDF fajl u Excel (4 načina)")](https://www.youtube.com/watch?v=bJwb6wxUPyY)
-[![10 Trikova za Google Chrome](https://ytcards.demolab.com/?id=0pYQ3k3BaKM&title=10+Trikova+za+Google+Chrome&lang=en&timestamp=1742755871&background_color=%23ffffff&title_color=000000&stats_color=4a4a4a&max_title_lines=1&width=272&border_radius=0 "10 Trikova za Google Chrome")](https://www.youtube.com/watch?v=0pYQ3k3BaKM)
 <!-- END YOUTUBE-CARDS -->
